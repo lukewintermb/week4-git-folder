@@ -1,0 +1,1 @@
+my_list = ["Apples", "Bananas", "House", "1234"]
